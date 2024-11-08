@@ -13,8 +13,8 @@ This project demonstrates how to build a SQL bot using LangChain, Google Generat
 
 1. **Clone the Repository**: 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/yuval728/SQLify.git
+    cd SQLify
     ```
 
 2. **Install Dependencies**: 
